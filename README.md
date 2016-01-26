@@ -10,4 +10,5 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 * Meeting in 602 from now on. This is to enable group work especially — we encourage you to work with your neighbor on exercises during class.
 * Don't forget to regularly `git pull` in your terminal window or `Sync` in GitHub Desktop in the course repository to get the latest materials.
-* Remember: hw00 is due Tuesday Feb. 2nd. Please join the [google group](https://groups.google.com/forum/#!forum/python4geosciences2016) and the associated calendar to stay up to date on the course timing.
+* Remember: hw02 is due Tuesday Feb. 2nd. Please join the [google group](https://groups.google.com/forum/#!forum/python4geosciences2016) and the associated calendar to stay up to date on the course timing.
+* We've set up a course in eCampus for sharing grades.
