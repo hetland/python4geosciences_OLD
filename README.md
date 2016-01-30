@@ -6,6 +6,11 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 1/28/16
+
+* Don't use numpy for hw02 since we haven't gotten to that point yet. We want you to learn the core language first.
+* hw02 is now due Thursday February 4th instead of Tuesday February 2nd.
+
 ### 1/26/16
 
 * Meeting in 602 from now on. This is to enable group work especially — we encourage you to work with your neighbor on exercises during class.
