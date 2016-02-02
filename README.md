@@ -9,6 +9,7 @@ Course materials, including the iPython notebooks from the lectures are found in
 ### 2/2/16
 
 * Homeworks are due by midnight on their due date. So, your final version of hw02 should be pushed to your github homework repo by midnight Thursday night.
+* A note on Stack Overflow: Our goal is to learn as much as possible while we're in this class. In real life, you use the internet to figure out how to move forward in your work, but you can't actually google the answer to your work problem. You use it to find pieces of your answer which you then put together, not your entire research project. Do the same thing on the homework problems. Work on the problem yourself and when you need to figure out how to implement a part of the problem, google to learn more. This is how you will learn the most.
 
 ### 1/28/16
 
