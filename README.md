@@ -6,6 +6,10 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 2/2/16
+
+* Homeworks are due by midnight on their due date. So, your final version of hw02 should be pushed to your github homework repo by midnight Thursday night.
+
 ### 1/28/16
 
 * Don't use numpy for hw02 since we haven't gotten to that point yet. We want you to learn the core language first.
