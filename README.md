@@ -6,6 +6,10 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 2/4/16
+
+* Don't use words that are special in Python for variable names. Examples include `dict`, `list`, `string`. While you can overload words like that, it is confusing for reading your code and your definitions of the variables can easily get overwritten without you realizing it.
+
 ### 2/2/16
 
 * Homeworks are due by midnight on their due date. So, your final version of hw02 should be pushed to your github homework repo by midnight Thursday night.
