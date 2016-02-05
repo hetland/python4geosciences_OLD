@@ -1,0 +1,77 @@
+$M1 This file last updated on 21/December/2005
+$M1 Transmissometer not corrected for lamp decline with age.
+$M1 Oxygen Probe not corrected for drift.
+*******************************************************************
+** Program Title: Mechanisms Controlling Hypoxia                 **
+**                    on the Louisiana Shelf                     **
+**                                                               **
+** Sponsored by: National Oceanic and Atmospheric Administration **
+**               Center for Sponsored Coastal Ocean Research     **
+**               Coastal Ocean Program                           **
+**               NOAA/CSCOR/COP NA03NOS4780039                   **
+**                                                               **
+** Conducted by: Dept. of Oceanography, Texas A&M University     **
+**                                                               **
+** Archived by : The National Oceanograpic Data Center (NODC)    **
+**               NODC Project Code 0490                          **
+**                                                               **
+** For questions regarding these data please contact:            **
+** Dr. Matthew K. Howard                                         **
+** Department of Oceanography, Texas A&M University              **
+** College Station, TX 77843-3146                                **
+** (979)-862-4169 (voice), email: mkhoward@tamu.edu              **
+*******************************************************************
+CTD PROFILE DATA
+PLATFORM       : R/V GYRE CRUISE 04G03
+MCHCRUISE ID   : M1
+STATION NAME   :    m1007b
+STATION NUMBER : 049
+CAST DATE-TIME : 04/06/2004 13:26 MM/DD/YYYY HH:MM UTC
+LATITUDE       :  28.9586 N
+LONGITUDE      :  90.5522 W
+CAST DEPTH (m) :   11.5
+WATER DEPTH (m):   12.5
+INSTRUMENT TYPE: Sea-Bird SBE-911-Plus
+SBE Software   : SBE Data Processing V5.37b
+RAW DATA FILE  :   m1007b.cnv
+**********************************************************
+* Column  1: Pressure (Digiquartz, db)
+* Column  2: Depth (salt water, meters)
+* Column  3: Temperature (ITS-90, deg C)
+* Column  4: Potential temperature (ITS-90, deg C)
+* Column  5: Conductivity (S/m)
+* Column  6: Salinity (PSS-78 psu)
+* Column  7: Sigma-theta (kg/m^3)
+* Column  8: Dissolved Oxygen (SBE 43 ml/l)
+* Column  9: Dissolved Oxygen (SBE 43 volts)
+* Column 10: Transmission (percent)
+* Column 11: Transmission (volts)
+* Column 12: Irradiance (PAR, microEinsteins/m^2/sec)
+* Column 13: Irradiance (PAR, Biospherical/Licor, volts)
+* Column 14: Fluorescence (Chelsea Aqua 3, Chl Con ug/l)
+* Column 15: Fluorescence (Chelsea Aqua 3, volts)
+* Column 16: Optical Backscatter (OBS, particle concentration mg/l)
+* Column 17: Optical Backscatter (OBS, volts)
+**********************************************************
+* Press   Depth  Temp   PoTemp     Cond     Sal   Sig-Th     O2      O2V   %Tran  Tran-V    PAR     PAR-V     FL    FL-V    OBS   OBS-V
+*END*
+   2.003    2.0 21.5801 21.5797  4.491215 31.3640 21.5725  5.15484 3.5780 79.7278 3.9697 5.5324e+02 2.3499  0.6834 1.8960 0.6650 0.4434
+   2.515    2.5 21.5943 21.5938  4.492442 31.3631 21.5680  5.16072 3.5813 79.8590 3.9761 4.9312e+02 2.3015  0.7558 1.9384 0.7116 0.4744
+   3.021    3.0 21.5914 21.5908  4.492000 31.3616 21.5677  5.16023 3.5805 79.4272 3.9549 3.9951e+02 2.2068  0.8451 1.9861 0.5713 0.3809
+   3.522    3.5 21.5902 21.5895  4.491774 31.3605 21.5672  5.15430 3.5768 79.2029 3.9439 3.3882e+02 2.1363  0.8884 2.0071 0.6327 0.4218
+   4.028    4.0 21.5842 21.5834  4.491014 31.3588 21.5676  5.16425 3.5822 79.6675 3.9667 2.6994e+02 2.0394  0.9009 2.0132 0.6773 0.4516
+   4.531    4.5 21.5839 21.5830  4.491116 31.3597 21.5683  5.16090 3.5805 79.6875 3.9677 2.2652e+02 1.9628  0.9541 2.0366 0.6159 0.4106
+   5.037    5.0 21.5768 21.5758  4.490226 31.3577 21.5688  5.15365 3.5772 79.6946 3.9680 1.9879e+02 1.9073  1.0211 2.0667 0.6363 0.4242
+   5.533    5.5 21.5820 21.5809  4.494564 31.3876 21.5901  5.15175 3.5769 79.7016 3.9684 1.6145e+02 1.8158  1.0293 2.0700 0.7334 0.4889
+   6.042    6.0 21.5995 21.5983  4.505412 31.4594 21.6399  5.14357 3.5728 80.2141 3.9935 1.4525e+02 1.7717  0.9907 2.0537 0.6755 0.4503
+   6.544    6.5 21.6071 21.6058  4.510065 31.4900 21.6611  5.13711 3.5692 80.0407 3.9850 1.2777e+02 1.7149  1.0975 2.0975 0.6209 0.4140
+   7.040    7.0 21.6063 21.6050  4.509475 31.4858 21.6581  5.14159 3.5709 79.9498 3.9806 1.0346e+02 1.6209  1.0663 2.0851 0.6772 0.4515
+   7.558    7.5 21.6013 21.5999  4.506271 31.4643 21.6432  5.12332 3.5671 80.2661 3.9961 9.2472e+01 1.5746  1.0655 2.0847 0.6858 0.4572
+   8.055    8.0 21.6209 21.6194  4.520992 31.5647 21.7141  5.10721 3.5595 80.2597 3.9958 7.4718e+01 1.4811  1.1126 2.1033 0.6155 0.4103
+   8.557    8.5 21.6607 21.6591  4.551570 31.7740 21.8622  5.10101 3.5566 80.1647 3.9911 6.9139e+01 1.4481  0.9781 2.0478 0.6990 0.4660
+   9.057    9.0 21.6697 21.6680  4.561525 31.8450 21.9136  5.09758 3.5554 80.8022 4.0224 6.2370e+01 1.4027  0.9587 2.0397 0.6704 0.4469
+   9.567    9.5 21.6697 21.6679  4.572731 31.9323 21.9799  5.04158 3.5292 80.3487 4.0001 5.3166e+01 1.3365  0.9950 2.0556 0.7187 0.4791
+  10.067   10.0 21.6808 21.6789  4.604117 32.1692 22.1567  5.07294 3.5493 80.3353 3.9995 4.7997e+01 1.2895  0.9306 2.0270 0.7102 0.4735
+  10.571   10.5 21.6802 21.6782  4.630973 32.3795 22.3166  5.07352 3.5517 79.7216 3.9694 4.3581e+01 1.2484  0.8900 2.0080 0.6503 0.4335
+  11.076   11.0 21.6794 21.6773  4.653187 32.5539 22.4492  5.04458 3.5380 79.0932 3.9386 3.8007e+01 1.1895  0.9883 2.0527 0.8653 0.5769
+  11.575   11.5 21.6543 21.6521  4.685871 32.8289 22.6650  5.01949 3.5227 77.6723 3.8689 3.4580e+01 1.1486  1.0025 2.0587 0.7717 0.5145
