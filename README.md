@@ -6,6 +6,12 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 2/9/16
+
+* Remember to commit and push your work to GitHub as you go so that you are taking full advantage of version control. This way your work is saved no matter what happens to your computer!
+* Close to being finished with grading hw02. Will post solutions when finished.
+* We will have an extra help session for people who are new to programming to have extra one on one help.
+
 ### 2/4/16
 
 * Don't use words that are special in Python for variable names. Examples include `dict`, `list`, `string`. While you can overload words like that, it is confusing for reading your code and your definitions of the variables can easily get overwritten without you realizing it.
