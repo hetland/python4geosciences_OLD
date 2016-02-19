@@ -6,6 +6,33 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 2/11/16
+
+* Please use the Google Group forum; it is an excellent way to discuss the homework. You may need to go into the group and change your email settings so that you receive emails when there is forum activity.
+* Notes about homework questions by early: please do so! Ask early, and be specific in your question.
+* We added a couple of usage examples to hw03 Question 17 (grad question), so go check it out for a little more guidance.
+* hw03 has been pushed back to next Thursday
+
+#### hw02:
+* Grades and solutions are posted now!
+* We will email out graded homework notebooks
+* Extra help session for people who earned the equivalent of about 60% or less on hw02. We'll email about this. The people we email can earn points on their hw02 grade.
+* Have finished going through hw02. Overall notes:
+ - Put your name at the top and be clear which question a solution is addressing.
+ - Go through solutions in detail; can also see assertions there. Make sure you understand solutions!
+ - We tried to give points in the spirit of the question, given your approach, as much as possible.
+ - Start on homework earlier
+ - Work together, but do your own work — it’s really clear who is working together from solutions. The danger, of course, is that you are just copying and not learning.
+ - Ask questions (early!)
+ - Look at what the computer is doing. You can do this with well-placed `print` statements.
+ - Read the question and check your work.
+ - Your code needs to run.
+* A few specific notes on problems
+ - Remember: typically a function will return something. This means a formal `return` statement. In some cases, people either printed `True` or `False` to the screen but returned nothing. Or, returned the string `True` instead of the boolean True.
+ - The point of writing functions is to be able to use their functionality — the homeworks are no exception to this. You can use functions written in earlier problems; the function cell just needs to have been run. No need to copy them repeatedly.
+ - There were a few indentation problems, which results in red text.
+ - Some people caught exceptions or border cases nicely, or explored further when their solution seemed too complicated.
+
 ### 2/9/16
 
 * Remember to commit and push your work to GitHub as you go so that you are taking full advantage of version control. This way your work is saved no matter what happens to your computer!
