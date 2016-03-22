@@ -6,6 +6,10 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 3/8/16
+
+* Grad students: email us your project idea, packages and datasets you intend to use, people you will work with, and a brief description (about a paragraph) by Friday March 11th.
+
 ### 2/11/16
 
 * Please use the Google Group forum; it is an excellent way to discuss the homework. You may need to go into the group and change your email settings so that you receive emails when there is forum activity.

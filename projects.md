@@ -12,6 +12,7 @@ Grad students should get together in groups of 2-3 people, or work on their own,
 - Cartopy/Iris (reading and plotting map-based data)
 - Widgets (in Jupyter or otherwise)
 - Bokeh, Mayavi (specialized, powerful plotting packages)
+- seaborn
 
 
 ## Datasets:
