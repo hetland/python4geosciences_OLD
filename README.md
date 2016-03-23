@@ -6,6 +6,11 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 3/24/16
+
+* As discussed previously in class, `basemap` hasn't been working with Python3 on Windows machines. For people using Windows, you'll want to follow the directions on [this page](http://conda.pydata.org/docs/py2or3.html#create-python-2-or-3-environments) to create a Python2.7 environment to use when you want to use `basemap`. Then, you can active that environment with `activate py27` in a terminal window to then start your Jupyter notebook in Python2.
+* Don't forget that the way you can install packages is with `conda install [packagename]`. For mapping-related packages, we've been using the special IOOS channel with the following: `conda install --channel IOOS netcdf4`, for example.
+
 ### 3/8/16
 
 * Grad students: email us your project idea, packages and datasets you intend to use, people you will work with, and a brief description (about a paragraph) by Friday March 11th.
