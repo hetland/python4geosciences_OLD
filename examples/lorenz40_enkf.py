@@ -85,13 +85,13 @@ tstart = 100
 ntstart = int(tstart/model.dt)
 ntot = xtruth.shape[0]
 nspinup = ntot/2
-print 'ntstart, nspinup, ntot =',ntstart,nspinup,ntot
+print('ntstart, nspinup, ntot =',ntstart,nspinup,ntot)
 for n in range(ntstart):
    ensemble.rk4step() # perfect model
 
 nsteps = dtassim/model.dt
 if nsteps % 1  != 0:
-    raise ValueError, 'assimilation interval must be an integer number of model time steps'
+    raise(ValueError, 'assimilation interval must be an integer number of model time steps')
 else:
    nsteps = int(nsteps)
 
@@ -179,7 +179,7 @@ def run_ensemble(*args):
         asprd = (xprime**2).mean()
         if nassim >= nspinup:
             analerr.append(aerr); analsprd.append(asprd)
-        print nassim,timetruth[nassim],ferr,fsprd,aerr,asprd
+        print(nassim,timetruth[nassim],ferr,fsprd,aerr,asprd)
         ensemble.x = xmean + xprime
         for n in range(nsteps):
             ensemble.rk4step() # perfect model
@@ -201,4 +201,4 @@ analerr = np.array(analerr)
 analsprd = np.array(analsprd)
 fstdev = np.sqrt(fcstsprd.mean())
 astdev = np.sqrt(analsprd.mean())
-print corrl,covinflate,np.sqrt(analerr.mean()),astdev
+print(corrl,covinflate,np.sqrt(analerr.mean()),astdev)
