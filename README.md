@@ -6,6 +6,12 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 3/31/16
+
+* hw04 is all graded now
+* hw05 is mostly graded but not entirely
+* Will have 1 or 2 more homeworks before we start on group projects. Calendar is updated currently.
+
 ### 3/24/16
 
 * As discussed previously in class, `basemap` hasn't been working with Python3 on Windows machines. For people using Windows, you'll want to follow the directions on [this page](http://conda.pydata.org/docs/py2or3.html#create-python-2-or-3-environments) to create a Python2.7 environment to use when you want to use `basemap`. Then, you can active that environment with `activate py27` in a terminal window to then start your Jupyter notebook in Python2.
