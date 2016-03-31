@@ -11,6 +11,8 @@ Course materials, including the iPython notebooks from the lectures are found in
 * hw04 is all graded now
 * hw05 is mostly graded but not entirely
 * Will have 1 or 2 more homeworks before we start on group projects. Calendar is updated currently.
+* Note that group project presentations will be April 26 and 28 during class, and May 9 during the final exam period. We have a sign up for when to present soon.
+* We plan to continue having homework for the next few weeks, something like a question per topic area.
 
 ### 3/24/16
 
