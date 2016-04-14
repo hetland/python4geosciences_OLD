@@ -6,6 +6,10 @@ Course materials, including the iPython notebooks from the lectures are found in
 
 ## Announcements
 
+### 4/14/16
+
+* Don't forget that all students are required to attend and review all presentations. This will be accounted for in the participation grade.
+
 ### 3/31/16
 
 * hw04 is all graded now
